@@ -1,5 +1,5 @@
 <?php
-//datos de nuestro mysqlhola
+//datos de nuestro mysql
 $servername = "localhost:3307";
 $username = "root";
 $password ="";
