@@ -18,7 +18,7 @@ ver imagen en la carpeta capturas de pantalla 4.png.
 Por ultimo entramos a phpmyadmin e importaremos el archivo llamado "proyecto_arduino.sql"
 ver imagen en la carpeta capturas de pantalla 7.png.
 
-Con todo descargado y confiurado solo queraria probarlo todo y para ello entramos a esta ruta en http://localhost/php/proyecto_1/Iniciodesesion/ y ejecutamos el login.php.
+Con todo descargado y confiurado solo queraria probarlo todo y para ello entramos a esta ruta en *http://localhost/php/proyecto_1/Iniciodesesion/* y ejecutamos el login.php.
 ver imagen en la carpeta capturas de pantalla 5.png.
 
 Usuarios por defecto:
