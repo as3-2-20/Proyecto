@@ -1,4 +1,4 @@
-# Proyecto
+# Proyecto 
 ## Jonathan, Andoni e Irma
 
 Descargar todo los archivos y carpetas, todo eso lo guardamos en una ruta similar a esta: *"C:\xampp\htdocs\php\proyecto_1".*
