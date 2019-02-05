@@ -12,7 +12,7 @@ En esa misma ruta instalaremos la libreria twing y ahi meteremos dos archivos:
   2.Libreriatwing.php *"C:\xampp\htdocs\php\proyecto_1\composer\twig".*
   ver imagen en la carpeta capturas de pantalla 3.png.
   
-Creamos una carpeta llamada librerias o como querais en esta ruta "C:\xampp\htdocs\php\proyecto_1" y ahi dentro instalaremos las librerias: bootstrap, jquery y plotly.
+Creamos una carpeta llamada librerias o como querais en esta ruta *"C:\xampp\htdocs\php\proyecto_1"* y ahi dentro instalaremos las librerias: bootstrap, jquery y plotly.
 ver imagen en la carpeta capturas de pantalla 4.png.
 
 Por ultimo entramos a phpmyadmin e importaremos el archivo llamado "proyecto_arduino.sql"
