@@ -2,6 +2,8 @@
 
 Es una web que muestra la temperatura y humedad de un lugar en concreto via formulario.
 
+https://github.com/as3-2-20/Proyecto/issues/1#issue-406663691
+
 # Instrucciones para utilizar nuestro proyecto 
 
 Descargar todo los archivos y carpetas, todo eso lo guardamos en una ruta similar a esta: *"C:\xampp\htdocs\php\proyecto_1".*
