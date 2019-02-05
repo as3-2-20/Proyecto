@@ -1,8 +1,8 @@
 # De que trata nuestro proyecto
+
 Es una web que muestra la temperatura y humedad de un lugar en concreto via formulario.
 
 # Instrucciones para utilizar nuestro proyecto 
-## Jonathan, Andoni e Irma
 
 Descargar todo los archivos y carpetas, todo eso lo guardamos en una ruta similar a esta: *"C:\xampp\htdocs\php\proyecto_1".*
 ver imagen en la carpeta capturas de pantalla 1.png.
@@ -32,3 +32,4 @@ con la misma contraseña: root.
 ver imagen en la carpeta capturas de pantalla 6.png.
 
 **NOTA: Dispones del archivo composer.json para ver las librerias de composer utilizadas pero bueno ya estan arriba mencionadas.**
+## BY : Jonathan, Andoni e Irma
