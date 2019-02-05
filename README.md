@@ -2,7 +2,7 @@
 
 Es una web que muestra la temperatura y humedad de un lugar en concreto via formulario.
 
-https://github.com/as3-2-20/Proyecto/issues/1#issue-406663691
+![captura](https://user-images.githubusercontent.com/43339276/52259270-69abbb80-2922-11e9-99c3-10eb8d5f6d5a.PNG)
 
 # Instrucciones para utilizar nuestro proyecto 
 
