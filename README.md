@@ -28,4 +28,4 @@ andoni
 con la misma contraseña: root.
 ver imagen en la carpeta capturas de pantalla 6.png.
 
-# NOTA: Dispones del archivo composer.json para ver las librerias de composer utilizadas pero bueno ya estan arriba mencionadas. #
+NOTA: Dispones del archivo composer.json para ver las librerias de composer utilizadas pero bueno ya estan arriba mencionadas.
